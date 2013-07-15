@@ -12,6 +12,7 @@ Gem::Specification.new do |gem|
   gem.files         = `git ls-files`.split("\n")
   gem.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
   gem.name          = "omniauth-imagerelay"
+  gem.license       = "MIT"
   gem.require_paths = ["lib"]
   gem.version       = OmniAuth::ImageRelay::VERSION
 

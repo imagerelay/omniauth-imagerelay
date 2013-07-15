@@ -2,7 +2,7 @@
 
 This gem contains the official Image Relay, [http://imagerelay.com](http://imagerelay.com), strategy for OmniAuth.
 
-Image Relay API documentation can be found at [https://github.com/imagerelay/API](http://github.com/imagerelay/API).
+For more details about the Image Relay API including documentation, and application credientials please contact support@imagerelay.com.
 
 ## Basic Usage
 
